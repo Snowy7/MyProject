@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532ae3864dfb4516b60617b0b7790be7, type: 3}
+  m_Name: Theme
+  m_EditorClassIdentifier: 
+  buttonClick: {fileID: 8300000, guid: 543d4a0215deb73479166772abdea37b, type: 3}
+  buttonHover: {fileID: 8300000, guid: 41ee8adfcca8f4e469edd7d0a0fa1264, type: 3}
+  menuOpen: {fileID: 8300000, guid: 6ab6dbe5764adfe45a0f80e6d3da52ba, type: 3}
+  menuClose: {fileID: 8300000, guid: 25db11663156a8344bd26b6c7e624391, type: 3}
+  menuBack: {fileID: 8300000, guid: 73797f3f821a88845a1c547400af4266, type: 3}
+  logoFontColor: {r: 1, g: 0.4292453, b: 0.4292453, a: 1}
+  logoFont: {fileID: 11400000, guid: ab377eb460e474c478a94e42bc29ea44, type: 2}
+  logoFontSize: 150
+  primaryColor: {r: 0.94509804, g: 0.2980392, b: 0.3376359, a: 0.34117648}
+  secondaryColor: {r: 1, g: 0.47685733, b: 0.41176474, a: 1}
+  buttonTextColor: {r: 1, g: 1, b: 1, a: 1}
+  font: {fileID: 11400000, guid: 3734b205941d9004a9978ea0cb64e3c7, type: 2}
+  fontSize: 40
